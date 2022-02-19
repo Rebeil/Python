@@ -11,3 +11,4 @@ print(os.path.exists(os.path.join('0x.', 'lib_os.py')))
 
 #подкаталоги test_dir->level_1->level_2->level_3
 os.makedirs(os.path.join('test_dir', 'level_1', 'level_2', 'level_3'))
+
